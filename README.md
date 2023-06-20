@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a provider user.
+
+![image](https://github.com/procojd/provider_example/assets/94393895/de9ff170-9b4e-40bb-8f9c-29677fa6961b)
+
 
 A few resources to get you started if this is your first Flutter project:
 
